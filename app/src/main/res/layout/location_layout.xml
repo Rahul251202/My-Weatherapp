@@ -416,13 +416,4 @@
         </LinearLayout>
     </LinearLayout>
 
-    <com.google.android.material.textview.MaterialTextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:textColor="@color/black"
-        android:textSize="14sp"
-        android:textStyle="italic"
-        android:layout_marginBottom="40dp"
-        android:text="@string/created_by_joyjit_bhandari_n_android_developer"/>
 </LinearLayout>
